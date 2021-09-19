@@ -1,0 +1,14 @@
+.loader {
+    display: none;
+    height: 10rem;
+    width: 16rem;
+}
+h1{
+    font-size: 24px;
+    text-align: center;
+}
+.card-style:hover{
+border: 5px solid rgb(233, 230, 230);
+padding: 10px;
+border-radius: 5px;
+}
